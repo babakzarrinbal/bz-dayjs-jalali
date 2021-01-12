@@ -3,13 +3,12 @@
   "version": "0.0.2",
   "description": "Jalali calendar plugin for dayjs",
   "main": "dayjs-jalali.min.js",
-  "repository": "https://github.com/torbatian/dayjs-jalali.git",
-  "author": "Hamed Torbatian <hamed.tm@gmail.com>",
+  "repository": "https://github.com/babakzarrinbal/bz-dayjs-jalali.git",
+  "author": "babak zarrinbal <babak.zarrinbal@gmail.com>",
   "license": "MIT",
   "scripts": {
     "test": "jest",
-    "build": "rollup -c",
-    "bztest": "node ./bz-tet/bz-test.js"
+    "build": "rollup -c"
   },
   "keywords": [
     "dayjs",
