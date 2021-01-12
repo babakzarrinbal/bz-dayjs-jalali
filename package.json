@@ -1,5 +1,5 @@
 {
-  "name": "bz-dayjs-jalali",
+  "name": "@bz-public/bz-dayjs-jalali",
   "version": "0.0.2",
   "description": "Jalali calendar plugin for dayjs",
   "main": "dayjs-jalali.min.js",
